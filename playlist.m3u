@@ -7,3 +7,5 @@ https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12b
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="directvlivehd" tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2024/03/cropped-LOGO-ta-NUEVO2.png" group-title="Deporte",Directv
 https://focus4ca.com/deportivo.php?player=desktop&live=directvlivehd
+#EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://television-libre.online/img/tyc.webp" group-title="Deporte",TyC Sports
+https://nuevetres.pricesaskeloadsc.com/tyc_sports/tracks-v1a1/mono.m3u8
